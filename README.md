@@ -50,4 +50,4 @@ portfolio/
 - Enhance accessibility with ARIA labels and keyboard navigation.
 
 ## License
-© 2025 YourName. All rights reserved.
+© 2025 Aneesh G. All rights reserved.
